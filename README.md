@@ -1,5 +1,5 @@
-# Serviço Wishlist
+# Wishlist Service
 
 
-## Projeto principal:
-* https://github.com/brunoczo/bruno-wish-list-rest-api/tree/master
+## Main project:
+* [https://github.com/brunoczo/bruno-wish-list-rest-api/tree/master](https://github.com/brunoczo/java-webflux-rabbit-mongo-redis-bdd-kubenerts-wish-list-rest-api)
